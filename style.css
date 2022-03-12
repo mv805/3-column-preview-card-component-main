@@ -21,6 +21,10 @@ h1 {
     flex: 1;
 }
 
+footer {
+    color: rgb(56, 56, 56);
+}
+
 .vehicle-card {
     height: 40rem;
     width: 25rem;
